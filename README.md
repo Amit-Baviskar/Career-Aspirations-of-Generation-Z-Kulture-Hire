@@ -2,7 +2,7 @@
 
 ----
    ## 📚 Index  
-1.  [Introduction](#Introduction)  
+1.  [Introduction](#introduction)  
 2.  [Project Objectives](#project-objectives)
 3.  [Project Overview & Methodology](#project-overview-methodology)
 4.  [Features](#features)  
@@ -30,17 +30,17 @@ The report summarizes the project objectives, methodology, key findings, outcome
 
 ## Project Objectives
 
-The primary objectives of this project were to:
+   - The primary objectives of this project were to:
 
-Understand Gen Z’s career aspirations, goals, and motivations
+      - Understand Gen Z’s career aspirations, goals, and motivations
 
-Identify key factors influencing career decisions, including economic conditions, technology, and personal interests
+      - Identify key factors influencing career decisions, including economic conditions, technology, and personal interests
 
-Analyze preferred industries, work environments, and career growth expectations
+      - Analyze preferred industries, work environments, and career growth expectations
 
-Identify critical skills and qualifications Gen Z considers essential for future success
+      - Identify critical skills and qualifications Gen Z considers essential for future success
 
-Provide actionable recommendations for businesses and educational institutions
+      - Provide actionable recommendations for businesses and educational institutions
 
 
 
