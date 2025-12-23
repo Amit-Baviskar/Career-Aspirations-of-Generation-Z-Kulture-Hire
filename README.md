@@ -3,8 +3,8 @@
 ----
    ## 📚 Index  
 1.  [Introduction](#Introduction)  
-2.  [Architecture](#architecture)
-3.  [Data - Flow Chart](#Data-Flow-Chart)
+2.  [Project Objectives](#project-objectives)
+3.  [Project Overview & Methodology](#project-overview-methodology)
 4.  [Features](#features)  
 5.  [Tech Stack](#tech-stack)  
 6.   [File Structure](#file-structure)
@@ -48,7 +48,7 @@ Provide actionable recommendations for businesses and educational institutions
 
 
 
-##  3. Project Overview & Methodology
+##  Project Overview Methodology
 
 
 Methodology Used: Survey-Based Research
