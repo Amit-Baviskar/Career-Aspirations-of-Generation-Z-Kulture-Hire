@@ -2,7 +2,7 @@
 
 ----
    ## 📚 Index  
-1. 🌟 [#Introduction](#Introduction)  
+1. 🌟 [Introduction](#Introduction)  
 2. 🏗️ [Architecture](#architecture)
 3. ⚙️ [Data - Flow Chart](#Data-Flow-Chart)
 4. ✨ [Features](#features)  
