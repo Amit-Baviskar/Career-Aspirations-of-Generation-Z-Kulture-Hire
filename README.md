@@ -28,6 +28,11 @@ The report summarizes the project objectives, methodology, key findings, outcome
 
 ## Project Objectives
 
+
+![Image](https://github.com/user-attachments/assets/1667143f-c3db-481c-8a18-c7b21277f561)
+
+
+
    - The primary objectives of this project were to:
 
       - Understand Gen Z’s career aspirations, goals, and motivations
